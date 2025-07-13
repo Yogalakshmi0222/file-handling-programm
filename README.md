@@ -34,3 +34,4 @@ Then, we open the same file again in append mode, so the user can add more conte
 Finally, we read the full content from the file and display it back to the user.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/d983fcf1-9932-4a22-9946-55d05f9934e3)
